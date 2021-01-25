@@ -86,7 +86,7 @@ pipeline
         {
             script
             {
-                echo "Done"
+                echo "All done"
             }
         }
     }
